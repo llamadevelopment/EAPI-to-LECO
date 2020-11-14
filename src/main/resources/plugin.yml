@@ -1,0 +1,9 @@
+name: EAPI to LECO
+version: 1.0.0
+api: 1.0.0
+main: net.lldv.eapitoleco.EAPITOLECO
+author: Proxma3838
+depend:
+  - LlamaEconomy
+softdepend:
+  - EconomyAPI
